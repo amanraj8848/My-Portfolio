@@ -1,19 +1,19 @@
 ---
-title: 'Project 3'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+title: "QuickChat"
+description: "Real-time chat application"
 image:
-    url: '/GitHub.webp'
-    alt: 'GitHub wallpaper'
+  url: "https://private-user-images.githubusercontent.com/90549641/321356931-b14d536b-d065-4ad1-bf3f-b6c0033c17d0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjgyMTU1ODIsIm5iZiI6MTcyODIxNTI4MiwicGF0aCI6Ii85MDU0OTY0MS8zMjEzNTY5MzEtYjE0ZDUzNmItZDA2NS00YWQxLWJmM2YtYjZjMDAzM2MxN2QwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDA2VDExNDgwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ0MzViMzQ3MjI0Yjk5Y2I5MjQ3OTQ0MTY0YjM3NGI3MGE0OWEyYTE4Njc3NWY3ZDdmNWE2ZDgwOGVlMGNhN2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.KGYDehUqJxCrHLUg6MzSeR23q1Urbhw9UqA61SCB6Ro"
+  alt: "QuickChat wallpaper"
 worksImage1:
-    url: '/image-1.webp'
-    alt: 'first image of your project.'
+  url: "https://private-user-images.githubusercontent.com/90549641/321357245-0c04f400-c20d-4ae7-b56d-ca473c5aef3d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjgyMTU1ODIsIm5iZiI6MTcyODIxNTI4MiwicGF0aCI6Ii85MDU0OTY0MS8zMjEzNTcyNDUtMGMwNGY0MDAtYzIwZC00YWU3LWI1NmQtY2E0NzNjNWFlZjNkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDA2VDExNDgwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdkOTE1MzE3YjU3MWViZjg5NThjZjM4NzM4MmFlZTI3OGU4YTZmMTc3ZTgzMjc1OGNiMDQ1ODRlMjA5MDk0OGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.liSpIM49LP9QmmSP87LcwsfPjS1VCa7ATmFynUYV7mc"
+  alt: "Login Page."
 worksImage2:
-    url: '/image-2.webp'
-    alt: 'second image of your project.'
-platform: Web
-stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
-github: https://github.com/ttomczak3/Milky-Way
+  url: "https://private-user-images.githubusercontent.com/90549641/321361503-37812e1e-cc7f-41c1-ac4b-4a7a7981d0e5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjgyMTYzNzIsIm5iZiI6MTcyODIxNjA3MiwicGF0aCI6Ii85MDU0OTY0MS8zMjEzNjE1MDMtMzc4MTJlMWUtY2M3Zi00MWMxLWFjNGItNGE3YTc5ODFkMGU1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDA2VDEyMDExMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFlNzZlNGMxNjAwNzE3YmMwYjg2M2M2ZjEyYzBmMzVhZWNkMDU2NjY5MTMzNDJmZmU4M2IwZTc4NzVhZDExNzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.HzIdLiEYpluLuKDh8VCvu68oEGV7O4mLloDaQlk9OWs"
+  alt: "Message Page"
+platform: Web App
+stack: React,Express,MongoDB,JavaScript,TailWindCSS
+website: https://chatapp-kzi3.onrender.com/
+github: https://github.com/amanraj8848/mern-chat-app-backend
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+QuickChat is built using the MERN stack (MongoDB, Express, React, and Node.js) to provide users with seamless and instant communication. The app allows multiple users to join various chat rooms and exchange messages in real time. It utilizes WebSockets to ensure fast, efficient, and reliable data transmission between clients and the server.
