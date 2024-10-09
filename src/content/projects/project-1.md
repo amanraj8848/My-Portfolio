@@ -12,7 +12,7 @@ worksImage2:
   alt: "Second image of the Codify project in collaborative mode."
 platform: Web
 stack: React, Node.js, WebSockets
-website: Yet to be deployed
+website: https://lets-codify.netlify.app/
 github: https://github.com/amanraj8848/Codify
 ---
 
